@@ -6,6 +6,7 @@ set(SRC
 )
 
 set(HDR
+    src/mdns.h
 )
 
 add_executable(${PROJECT_NAME})

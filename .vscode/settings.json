@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "if.h": "c",
+        "socket.h": "c",
+        "in.h": "c"
+    }
+}
